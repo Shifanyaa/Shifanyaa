@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shifanyaa
-- 👀 I’m interested in Web Develop
-- 🌱 I’m currently learning Front end Web
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
