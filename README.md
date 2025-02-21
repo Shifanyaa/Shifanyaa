@@ -1,40 +1,46 @@
-👋 Hi, I'm **Shahnaz Izzati Frishila**
+## 🌸 Hi, I'm **Shahnaz Izzati Frishila** 🐇  
+Undergraduate Student From **Gadjah Mada University**  
+🚀 A passionate **Data Scientist** & **Full Stack Developer** | **Javascript, Python, SQL, FastAPI, etc**  
+💡 I enjoy building **Web Applications** and **Dashboards for Data**  
+📊💼👩‍💼 Also exploring **Project Management** and **Team Leadership**  
+🔧 Currently working on **Microservice Apps** and researching **Deep Learning**  
+🌱 Always learning **Machine Learning, Docker, Software Engineering, etc**  
+📫 Reach me at: **shahnaz.izzati.frishila@mail.ugm.ac.id**  
 
-🚀 A passionate **Data Science and Full Stack Developer** | **Javascript, Python, SQL**
+---
 
-💡 I enjoy building **Web application and Dashboard for Data**
+### 🛠️ Technologies & Tools 🐾  
 
-🔧 Currently working on **Microservice App and Research at Deep Learning**
+![Python](https://img.shields.io/badge/-Python-ff69b4?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffb6c1?style=flat&logo=javascript)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f61?style=flat&logo=tensorflow)
+![Power BI](https://img.shields.io/badge/-Power%20BI-ffa07a?style=flat&logo=powerbi)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff69b4?style=flat&logo=postgresql)
+![Postman](https://img.shields.io/badge/-Postman-ff7f7f?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/-Git-ff6eb4?style=flat&logo=git)
+![Svelte](https://img.shields.io/badge/-Svelte-ff758c?style=flat&logo=svelte)
+![Node.js](https://img.shields.io/badge/-Node.js-ff99cc?style=flat&logo=node.js)
+![Asana](https://img.shields.io/badge/-Asana-ff69b4?style=flat&logo=asana)
+![Trello](https://img.shields.io/badge/-Trello-ffc0cb?style=flat&logo=trello)
+![Figma](https://img.shields.io/badge/-Figma-ffb6c1?style=flat&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-ffb6c1?style=flat&logo=canva)
 
-🌱 I’m always learning **Machine Learning, Data, Docker, Software Engineering, etc**
+---
 
-📫 How to reach me: **shahnaz.izzati.frishila@mail.ugm.ac.id**
+### 🐇 GitHub Stats 🌸  
 
-### 🛠️ Technologies & Tools
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=ff69b4&bg_color=fef5ff&theme=default)
 
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat&logo=tensorflow)
-![Power BI](https://img.shields.io/badge/-Power%20BI-ffb600?style=flat&logo=powerbi)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat&logo=postgresql)
-![Postman](https://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=postman)
-![Git](https://img.shields.io/badge/-Git-f34f29?style=flat&logo=git)
-![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?style=flat&logo=svelte)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&title_color=ff69b4&text_color=ff69b4&bg_color=fef5ff&theme=default)
 
-### 📈 GitHub Stats
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
+### 🌍 Connect with me: 🐰  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=flat&logo=linkedin)](https://www.linkedin.com/in/shahnaz-izzati-frishila/)  
+[![Email](https://img.shields.io/badge/-Email-ffc0cb?style=flat&logo=gmail)](mailto:shahnaz.izzati.frishila@mail.ugm.ac.id)  
 
-### 🌍 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/shahnaz-izzati-frishila/)
+---
 
-
-"Women in Tech, Shaping Tomorrow's World."
-
-<!---
-Shifanyaa/Shifanyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**"Women in Tech, Shaping Tomorrow's World."**  
+💖🐇✨
