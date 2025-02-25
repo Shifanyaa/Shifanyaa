@@ -29,9 +29,9 @@ Undergraduate Student From **Gadjah Mada University**
 
 ### 🐇 GitHub Stats 🌸  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=ff69b4&bg_color=fef5ff&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shifanyaa&show_icons=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=ff69b4&bg_color=fef5ff&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&title_color=ff69b4&text_color=ff69b4&bg_color=fef5ff&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifanyaa&layout=compact&title_color=ff69b4&text_color=ff69b4&bg_color=fef5ff&theme=default)
 
 ---
 
